@@ -1,6 +1,7 @@
 ### Olá! Me chamo Lucas Henrique, bem-vindo ao meu perfil 😊
 <div>
   <p>Graduando em 🎓 Análise e Desenvolvimento de Sistemas no Centro Universitário Unifavip Wyden</p>
+  <p>Atualmente focando em <strong>JavaScript 🌐</strong></p>
 </div>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashenriqramos&show_icons=true&theme=dark)
